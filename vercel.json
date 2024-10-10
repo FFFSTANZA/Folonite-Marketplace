@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "folonite-marketplace-frontend",
+      "root": "frontend"
+    },
+    {
+      "name": "folonite-marketplace-backend",
+      "root": "backend"
+    }
+  ]
+}
